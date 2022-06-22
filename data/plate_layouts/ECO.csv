@@ -1,0 +1,96 @@
+ECO,A01,Negative Control,Negative Control,,,,,,CAS Negative Control
+ECO,A02,beta-Methyl-D-Glucoside,"C-Source, carbohydrate",,,,,,CAS 709-50-2
+ECO,A03,D-Galactonic Acid-gamma-Lactone,"C-Source, carbohydrate",,,,,C03383,CAS 2782-07-2
+ECO,A04,L-Arginine,"C-Source, amino acid",,,,,C00062,CAS 1119-34-2
+ECO,A05,Negative Control,Negative Control,,,,,,CAS Negative Control
+ECO,A06,beta-Methyl-D-Glucoside,"C-Source, carbohydrate",,,,,,CAS 709-50-2
+ECO,A07,D-Galactonic Acid-gamma-Lactone,"C-Source, carbohydrate",,,,,C03383,CAS 2782-07-2
+ECO,A08,L-Arginine,"C-Source, amino acid",,,,,C00062,CAS 1119-34-2
+ECO,A09,Negative Control,Negative Control,,,,,,CAS Negative Control
+ECO,A10,beta-Methyl-D-Glucoside,"C-Source, carbohydrate",,,,,,CAS 709-50-2
+ECO,A11,D-Galactonic Acid-gamma-Lactone,"C-Source, carbohydrate",,,,,C03383,CAS 2782-07-2
+ECO,A12,L-Arginine,"C-Source, amino acid",,,,,C00062,CAS 1119-34-2
+ECO,B01,Pyruvic Acid methyl ester,"C-Source, ester",,,,,,CAS 600-22-6
+ECO,B02,D-Xylose,"C-Source, carbohydrate",,,,,C00181,CAS 58-86-6
+ECO,B03,D-Galacturonic Acid,"C-Source, carboxylic acid",,,,,C00333,CAS 91510-62-2
+ECO,B04,L-Asparagine,"C-Source, amino acid",,,,,C00152,CAS 70-47-3
+ECO,B05,Pyruvic Acid methyl ester,"C-Source, ester",,,,,,CAS 600-22-6
+ECO,B06,D-Xylose,"C-Source, carbohydrate",,,,,C00181,CAS 58-86-6
+ECO,B07,D-Galacturonic Acid,"C-Source, carboxylic acid",,,,,C00333,CAS 91510-62-2
+ECO,B08,L-Asparagine,"C-Source, amino acid",,,,,C00152,CAS 70-47-3
+ECO,B09,Pyruvic Acid methyl ester,"C-Source, ester",,,,,,CAS 600-22-6
+ECO,B10,D-Xylose,"C-Source, carbohydrate",,,,,C00181,CAS 58-86-6
+ECO,B11,D-Galacturonic Acid,"C-Source, carboxylic acid",,,,,C00333,CAS 91510-62-2
+ECO,B12,L-Asparagine,"C-Source, amino acid",,,,,C00152,CAS 70-47-3
+ECO,C01,Tween 40,"C-Source, fatty acid",,,,,D05566,CAS 9005-66-7
+ECO,C02,Erythritol,"C-Source, carbohydrate",,,,,C00503,CAS 149-32-6
+ECO,C03,2-Hydroxybenzoic Acid,"C-Source, carboxylic acid",,,,,C00805,CAS 54-21-7
+ECO,C04,L-Phenylalanine,"C-Source, amino acid",,,,,C00079,CAS 63-91-2
+ECO,C05,Tween 40,"C-Source, fatty acid",,,,,D05566,CAS 9005-66-7
+ECO,C06,Erythritol,"C-Source, carbohydrate",,,,,C00503,CAS 149-32-6
+ECO,C07,2-Hydroxybenzoic Acid,"C-Source, carboxylic acid",,,,,C00805,CAS 54-21-7
+ECO,C08,L-Phenylalanine,"C-Source, amino acid",,,,,C00079,CAS 63-91-2
+ECO,C09,Tween 40,"C-Source, fatty acid",,,,,D05566,CAS 9005-66-7
+ECO,C10,Erythritol,"C-Source, carbohydrate",,,,,C00503,CAS 149-32-6
+ECO,C11,2-Hydroxybenzoic Acid,"C-Source, carboxylic acid",,,,,C00805,CAS 54-21-7
+ECO,C12,L-Phenylalanine,"C-Source, amino acid",,,,,C00079,CAS 63-91-2
+ECO,D01,Tween 80,"C-Source, fatty acid",,,,,C11625,CAS 9005-65-6
+ECO,D02,D-Mannitol,"C-Source, carbohydrate",,,,,C00392,CAS 69-65-8
+ECO,D03,4-Hydroxybenzoic Acid,"C-Source, carboxylic acid",,,,,C00156,CAS 114-63-6
+ECO,D04,L-Serine,"C-Source, amino acid",,,,,C00065,CAS 56-45-1
+ECO,D05,Tween 80,"C-Source, fatty acid",,,,,C11625,CAS 9005-65-6
+ECO,D06,D-Mannitol,"C-Source, carbohydrate",,,,,C00392,CAS 69-65-8
+ECO,D07,4-Hydroxybenzoic Acid,"C-Source, carboxylic acid",,,,,C00156,CAS 114-63-6
+ECO,D08,L-Serine,"C-Source, amino acid",,,,,C00065,CAS 56-45-1
+ECO,D09,Tween 80,"C-Source, fatty acid",,,,,C11625,CAS 9005-65-6
+ECO,D10,D-Mannitol,"C-Source, carbohydrate",,,,,C00392,CAS 69-65-8
+ECO,D11,4-Hydroxybenzoic Acid,"C-Source, carboxylic acid",,,,,C00156,CAS 114-63-6
+ECO,D12,L-Serine,"C-Source, amino acid",,,,,C00065,CAS 56-45-1
+ECO,E01,alpha-Cyclodextrin,"C-Source, polymer",,,,,C00973,CAS 10016-20-3
+ECO,E02,N-Acetyl-D-Glucosamine,"C-Source, carbohydrate",,,,,C00140,CAS 7512-17-6
+ECO,E03,gamma-Hydroxybutyric Acid,"C-Source, carboxylic acid",,,,,C00989,CAS 502-85-2
+ECO,E04,L-Threonine,"C-Source, amino acid",,,,,C00188,CAS 72-19-5
+ECO,E05,alpha-Cyclodextrin,"C-Source, polymer",,,,,C00973,CAS 10016-20-3
+ECO,E06,N-Acetyl-D-Glucosamine,"C-Source, carbohydrate",,,,,C00140,CAS 7512-17-6
+ECO,E07,gamma-Hydroxybutyric Acid,"C-Source, carboxylic acid",,,,,C00989,CAS 502-85-2
+ECO,E08,L-Threonine,"C-Source, amino acid",,,,,C00188,CAS 72-19-5
+ECO,E09,alpha-Cyclodextrin,"C-Source, polymer",,,,,C00973,CAS 10016-20-3
+ECO,E10,N-Acetyl-D-Glucosamine,"C-Source, carbohydrate",,,,,C00140,CAS 7512-17-6
+ECO,E11,gamma-Hydroxybutyric Acid,"C-Source, carboxylic acid",,,,,C00989,CAS 502-85-2
+ECO,E12,L-Threonine,"C-Source, amino acid",,,,,C00188,CAS 72-19-5
+ECO,F01,Glycogen,"C-Source, polymer",,,,,C00182,CAS 9005-79-2
+ECO,F02,D-Glucosaminic Acid,"C-Source, carboxylic acid",,,,,C03752,CAS 3646-68-2
+ECO,F03,Itaconic Acid,"C-Source, carboxylic acid",,,,,C00490,CAS 97-65-4
+ECO,F04,Glycyl-L-Glutamic Acid,"C-Source, amino acid",,,,,,CAS 7412-78-4
+ECO,F05,Glycogen,"C-Source, polymer",,,,,C00182,CAS 9005-79-2
+ECO,F06,D-Glucosaminic Acid,"C-Source, carboxylic acid",,,,,C03752,CAS 3646-68-2
+ECO,F07,Itaconic Acid,"C-Source, carboxylic acid",,,,,C00490,CAS 97-65-4
+ECO,F08,Glycyl-L-Glutamic Acid,"C-Source, amino acid",,,,,,CAS 7412-78-4
+ECO,F09,Glycogen,"C-Source, polymer",,,,,C00182,CAS 9005-79-2
+ECO,F10,D-Glucosaminic Acid,"C-Source, carboxylic acid",,,,,C03752,CAS 3646-68-2
+ECO,F11,Itaconic Acid,"C-Source, carboxylic acid",,,,,C00490,CAS 97-65-4
+ECO,F12,Glycyl-L-Glutamic Acid,"C-Source, amino acid",,,,,,CAS 7412-78-4
+ECO,G01,Cellobiose,"C-Source, carbohydrate",,,,,C00185,CAS 528-50-7
+ECO,G02,Glucose-1-Phosphate,"C-Source, carbohydrate",,,,,,CAS Glucose-1-phosphate
+ECO,G03,alpha-Ketobutyric Acid,"C-Source, carboxylic acid",,,,,C00109,CAS 2013-26-5
+ECO,G04,Phenylethylamine,"C-Source, amine",,,,,C05332,CAS 156-28-5
+ECO,G05,Cellobiose,"C-Source, carbohydrate",,,,,C00185,CAS 528-50-7
+ECO,G06,Glucose-1-Phosphate,"C-Source, carbohydrate",,,,,,CAS Glucose-1-phosphate
+ECO,G07,alpha-Ketobutyric Acid,"C-Source, carboxylic acid",,,,,C00109,CAS 2013-26-5
+ECO,G08,Phenylethylamine,"C-Source, amine",,,,,C05332,CAS 156-28-5
+ECO,G09,Cellobiose,"C-Source, carbohydrate",,,,,C00185,CAS 528-50-7
+ECO,G10,Glucose-1-Phosphate,"C-Source, carbohydrate",,,,,,CAS Glucose-1-phosphate
+ECO,G11,alpha-Ketobutyric Acid,"C-Source, carboxylic acid",,,,,C00109,CAS 2013-26-5
+ECO,G12,Phenylethylamine,"C-Source, amine",,,,,C05332,CAS 156-28-5
+ECO,H01,alpha-D-Lactose,"C-Source, carbohydrate",,,,,C00243,CAS 5989-81-1
+ECO,H02,DL-alpha-Glycerol Phosphate,"C-Source, carbohydrate",,,,,C00093,CAS 3325-00-6
+ECO,H03,D-Malic Acid,"C-Source, carboxylic acid",,,,,C00497,CAS 636-61-3
+ECO,H04,Putrescine,"C-Source, amine",,,,,C00134,CAS 333-93-7
+ECO,H05,alpha-D-Lactose,"C-Source, carbohydrate",,,,,C00243,CAS 5989-81-1
+ECO,H06,DL-alpha-Glycerol Phosphate,"C-Source, carbohydrate",,,,,C00093,CAS 3325-00-6
+ECO,H07,D-Malic Acid,"C-Source, carboxylic acid",,,,,C00497,CAS 636-61-3
+ECO,H08,Putrescine,"C-Source, amine",,,,,C00134,CAS 333-93-7
+ECO,H09,alpha-D-Lactose,"C-Source, carbohydrate",,,,,C00243,CAS 5989-81-1
+ECO,H10,DL-alpha-Glycerol Phosphate,"C-Source, carbohydrate",,,,,C00093,CAS 3325-00-6
+ECO,H11,D-Malic Acid,"C-Source, carboxylic acid",,,,,C00497,CAS 636-61-3
+ECO,H12,Putrescine,"C-Source, amine",,,,,C00134,CAS 333-93-7

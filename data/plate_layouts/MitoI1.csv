@@ -1,0 +1,96 @@
+MitoI1,A01,No Inhibitor - No Substrate - With Saponin,Negative Control,,,,,,CAS Negative Control
+MitoI1,A02,No Inhibitor - No Substrate - With Saponin,Negative Control,,,,,,CAS Negative Control
+MitoI1,A03,No Inhibitor - No Substrate - With Saponin,Negative Control,,,,,,CAS Negative Control
+MitoI1,A04,No Inhibitor - No Substrate - With Saponin,Negative Control,,,,,,CAS Negative Control
+MitoI1,A05,No Inhibitor - With Substrate - With Saponin,Positive Control,,,,,,CAS 8047-15-2
+MitoI1,A06,No Inhibitor - With Substrate - With Saponin,Positive Control,,,,,,CAS 8047-15-2
+MitoI1,A07,No Inhibitor - With Substrate - With Saponin,Positive Control,,,,,,CAS 8047-15-2
+MitoI1,A08,No Inhibitor - With Substrate - With Saponin,Positive Control,,,,,,CAS 8047-15-2
+MitoI1,A09,Meclizine,Mitochondrial Inhibitor,,,,,D01317,CAS 1104-22-9
+MitoI1,A10,Meclizine,Mitochondrial Inhibitor,,,,,D01317,CAS 1104-22-9
+MitoI1,A11,Meclizine,Mitochondrial Inhibitor,,,,,D01317,CAS 1104-22-9
+MitoI1,A12,Meclizine,Mitochondrial Inhibitor,,,,,D01317,CAS 1104-22-9
+MitoI1,B01,Rotenone,"Mitochondrial Inhibitor, Complex I",,,,,C07593,CAS 83-79-4
+MitoI1,B02,Rotenone,"Mitochondrial Inhibitor, Complex I",,,,,C07593,CAS 83-79-4
+MitoI1,B03,Rotenone,"Mitochondrial Inhibitor, Complex I",,,,,C07593,CAS 83-79-4
+MitoI1,B04,Rotenone,"Mitochondrial Inhibitor, Complex I",,,,,C07593,CAS 83-79-4
+MitoI1,B05,Pyridaben,"Mitochondrial Inhibitor, Complex I",,,,,C18614,CAS 96489-71-3
+MitoI1,B06,Pyridaben,"Mitochondrial Inhibitor, Complex I",,,,,C18614,CAS 96489-71-3
+MitoI1,B07,Pyridaben,"Mitochondrial Inhibitor, Complex I",,,,,C18614,CAS 96489-71-3
+MitoI1,B08,Pyridaben,"Mitochondrial Inhibitor, Complex I",,,,,C18614,CAS 96489-71-3
+MitoI1,B09,Berberine,Mitochondrial Inhibitor,,,,,D01250,CAS 633-65-8
+MitoI1,B10,Berberine,Mitochondrial Inhibitor,,,,,D01250,CAS 633-65-8
+MitoI1,B11,Berberine,Mitochondrial Inhibitor,,,,,D01250,CAS 633-65-8
+MitoI1,B12,Berberine,Mitochondrial Inhibitor,,,,,D01250,CAS 633-65-8
+MitoI1,C01,Malonate,"Mitochondrial Inhibitor, Complex II",,,,,C00383,CAS 26522-85-0
+MitoI1,C02,Malonate,"Mitochondrial Inhibitor, Complex II",,,,,C00383,CAS 26522-85-0
+MitoI1,C03,Malonate,"Mitochondrial Inhibitor, Complex II",,,,,C00383,CAS 26522-85-0
+MitoI1,C04,Malonate,"Mitochondrial Inhibitor, Complex II",,,,,C00383,CAS 26522-85-0
+MitoI1,C05,Carboxin,"Mitochondrial Inhibitor, Complex II",,,,,C11255,CAS 5234-68-4
+MitoI1,C06,Carboxin,"Mitochondrial Inhibitor, Complex II",,,,,C11255,CAS 5234-68-4
+MitoI1,C07,Carboxin,"Mitochondrial Inhibitor, Complex II",,,,,C11255,CAS 5234-68-4
+MitoI1,C08,Carboxin,"Mitochondrial Inhibitor, Complex II",,,,,C11255,CAS 5234-68-4
+MitoI1,C09,Alexidine,Mitochondrial Inhibitor,,,,,D02804,CAS 1715-30-6
+MitoI1,C10,Alexidine,Mitochondrial Inhibitor,,,,,D02804,CAS 1715-30-6
+MitoI1,C11,Alexidine,Mitochondrial Inhibitor,,,,,D02804,CAS 1715-30-6
+MitoI1,C12,Alexidine,Mitochondrial Inhibitor,,,,,D02804,CAS 1715-30-6
+MitoI1,D01,Antimycin A,"Mitochondrial Inhibitor, Complex III",,,,,C11339,CAS 1397-94-0
+MitoI1,D02,Antimycin A,"Mitochondrial Inhibitor, Complex III",,,,,C11339,CAS 1397-94-0
+MitoI1,D03,Antimycin A,"Mitochondrial Inhibitor, Complex III",,,,,C11339,CAS 1397-94-0
+MitoI1,D04,Antimycin A,"Mitochondrial Inhibitor, Complex III",,,,,C11339,CAS 1397-94-0
+MitoI1,D05,Myxothiazol,"Mitochondrial Inhibitor, Complex III",,,,,C15674,CAS 76706-55-3
+MitoI1,D06,Myxothiazol,"Mitochondrial Inhibitor, Complex III",,,,,C15674,CAS 76706-55-3
+MitoI1,D07,Myxothiazol,"Mitochondrial Inhibitor, Complex III",,,,,C15674,CAS 76706-55-3
+MitoI1,D08,Myxothiazol,"Mitochondrial Inhibitor, Complex III",,,,,C15674,CAS 76706-55-3
+MitoI1,D09,Phenformin,Mitochondrial Inhibitor,,,,,D08352,CAS 834-28-6
+MitoI1,D10,Phenformin,Mitochondrial Inhibitor,,,,,D08352,CAS 834-28-6
+MitoI1,D11,Phenformin,Mitochondrial Inhibitor,,,,,D08352,CAS 834-28-6
+MitoI1,D12,Phenformin,Mitochondrial Inhibitor,,,,,D08352,CAS 834-28-6
+MitoI1,E01,FCCP,"Mitochondrial Inhibitor, Uncoupler",,,,,,CAS 370-86-5
+MitoI1,E02,FCCP,"Mitochondrial Inhibitor, Uncoupler",,,,,,CAS 370-86-5
+MitoI1,E03,FCCP,"Mitochondrial Inhibitor, Uncoupler",,,,,,CAS 370-86-5
+MitoI1,E04,FCCP,"Mitochondrial Inhibitor, Uncoupler",,,,,,CAS 370-86-5
+MitoI1,E05,"2,4-Dinitrophenol","Mitochondrial Inhibitor, Uncoupler",,,,,C02496,CAS 51-28-5
+MitoI1,E06,"2,4-Dinitrophenol","Mitochondrial Inhibitor, Uncoupler",,,,,C02496,CAS 51-28-5
+MitoI1,E07,"2,4-Dinitrophenol","Mitochondrial Inhibitor, Uncoupler",,,,,C02496,CAS 51-28-5
+MitoI1,E08,"2,4-Dinitrophenol","Mitochondrial Inhibitor, Uncoupler",,,,,C02496,CAS 51-28-5
+MitoI1,E09,Diclofenac,Mitochondrial Inhibitor,,,,,D00904,CAS 15307-79-6
+MitoI1,E10,Diclofenac,Mitochondrial Inhibitor,,,,,D00904,CAS 15307-79-6
+MitoI1,E11,Diclofenac,Mitochondrial Inhibitor,,,,,D00904,CAS 15307-79-6
+MitoI1,E12,Diclofenac,Mitochondrial Inhibitor,,,,,D00904,CAS 15307-79-6
+MitoI1,F01,Valinomycin,"Mitochondrial Inhibitor, Potassium Ionophore",,,,,C06684,CAS 2001-95-8
+MitoI1,F02,Valinomycin,"Mitochondrial Inhibitor, Potassium Ionophore",,,,,C06684,CAS 2001-95-8
+MitoI1,F03,Valinomycin,"Mitochondrial Inhibitor, Potassium Ionophore",,,,,C06684,CAS 2001-95-8
+MitoI1,F04,Valinomycin,"Mitochondrial Inhibitor, Potassium Ionophore",,,,,C06684,CAS 2001-95-8
+MitoI1,F05,CaCl2,Mitochondrial Inhibitor,,,,,D02256,CAS 10043-52-4
+MitoI1,F06,CaCl2,Mitochondrial Inhibitor,,,,,D02256,CAS 10043-52-4
+MitoI1,F07,CaCl2,Mitochondrial Inhibitor,,,,,D02256,CAS 10043-52-4
+MitoI1,F08,CaCl2,Mitochondrial Inhibitor,,,,,D02256,CAS 10043-52-4
+MitoI1,F09,Celastrol,Mitochondrial Inhibitor,,,,,,CAS 34157-83-0
+MitoI1,F10,Celastrol,Mitochondrial Inhibitor,,,,,,CAS 34157-83-0
+MitoI1,F11,Celastrol,Mitochondrial Inhibitor,,,,,,CAS 34157-83-0
+MitoI1,F12,Celastrol,Mitochondrial Inhibitor,,,,,,CAS 34157-83-0
+MitoI1,G01,Gossypol,Mitochondrial Inhibitor,,,,,C07667,CAS 303-45-7
+MitoI1,G02,Gossypol,Mitochondrial Inhibitor,,,,,C07667,CAS 303-45-7
+MitoI1,G03,Gossypol,Mitochondrial Inhibitor,,,,,C07667,CAS 303-45-7
+MitoI1,G04,Gossypol,Mitochondrial Inhibitor,,,,,C07667,CAS 303-45-7
+MitoI1,G05,Nordihydroguaiaretic Acid,Mitochondrial Inhibitor,,,,,C10719,CAS 500-38-9
+MitoI1,G06,Nordihydroguaiaretic Acid,Mitochondrial Inhibitor,,,,,C10719,CAS 500-38-9
+MitoI1,G07,Nordihydroguaiaretic Acid,Mitochondrial Inhibitor,,,,,C10719,CAS 500-38-9
+MitoI1,G08,Nordihydroguaiaretic Acid,Mitochondrial Inhibitor,,,,,C10719,CAS 500-38-9
+MitoI1,G09,Trifluoperazine,Mitochondrial Inhibitor,,,,,D00799,CAS 440-17-5
+MitoI1,G10,Trifluoperazine,Mitochondrial Inhibitor,,,,,D00799,CAS 440-17-5
+MitoI1,G11,Trifluoperazine,Mitochondrial Inhibitor,,,,,D00799,CAS 440-17-5
+MitoI1,G12,Trifluoperazine,Mitochondrial Inhibitor,,,,,D00799,CAS 440-17-5
+MitoI1,H01,Polymyxin B,Mitochondrial Inhibitor,,,,,D01066,CAS 1405-20-5
+MitoI1,H02,Polymyxin B,Mitochondrial Inhibitor,,,,,D01066,CAS 1405-20-5
+MitoI1,H03,Polymyxin B,Mitochondrial Inhibitor,,,,,D01066,CAS 1405-20-5
+MitoI1,H04,Polymyxin B,Mitochondrial Inhibitor,,,,,D01066,CAS 1405-20-5
+MitoI1,H05,Amitriptyline,Mitochondrial Inhibitor,,,,,D00809,CAS 549-18-8
+MitoI1,H06,Amitriptyline,Mitochondrial Inhibitor,,,,,D00809,CAS 549-18-8
+MitoI1,H07,Amitriptyline,Mitochondrial Inhibitor,,,,,D00809,CAS 549-18-8
+MitoI1,H08,Amitriptyline,Mitochondrial Inhibitor,,,,,D00809,CAS 549-18-8
+MitoI1,H09,Papaverine,Mitochondrial Inhibitor,,,,,D02218,CAS 61-25-6
+MitoI1,H10,Papaverine,Mitochondrial Inhibitor,,,,,D02218,CAS 61-25-6
+MitoI1,H11,Papaverine,Mitochondrial Inhibitor,,,,,D02218,CAS 61-25-6
+MitoI1,H12,Papaverine,Mitochondrial Inhibitor,,,,,D02218,CAS 61-25-6

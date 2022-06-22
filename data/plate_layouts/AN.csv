@@ -1,0 +1,96 @@
+AN,A01,Negative Control,Negative Control,,,,,,CAS Negative Control
+AN,A02,N-Acetyl-D-Galactosamine,"C-Source, carbohydrate",,,,,C01132,CAS 14215-68-0
+AN,A03,N-Acetyl-D-Glucosamine,"C-Source, carbohydrate",,,,,C00140,CAS 7512-17-6
+AN,A04,N-Acetyl-D-Mannosamine,"C-Source, carbohydrate",,,,,C00645,CAS 7772-94-3
+AN,A05,Adonitol,"C-Source, carbohydrate",,,,,C00474,CAS 488-81-3
+AN,A06,Amygdalin,"C-Source, carbohydrate",,,,,C08325,CAS 29883-15-6
+AN,A07,D-Arabitol,"C-Source, carbohydrate",,,,,C01904,CAS 488-82-4
+AN,A08,Arbutin,"C-Source, carbohydrate",,,,,C06186,CAS 497-76-7
+AN,A09,D-Cellobiose,"C-Source, carbohydrate",,,,,C00185,CAS 528-50-7
+AN,A10,a-Cyclodextrin,"C-Source, polymer",,,,,C00973,CAS 10016-20-3
+AN,A11,b-Cyclodextrin,"C-Source, polymer",,,,,,CAS 7585-39-9
+AN,A12,Dextrin,"C-Source, polymer",,,,,C00721,CAS 9004-53-9
+AN,B01,Dulcitol,"C-Source, carbohydrate",,,,,C01697,CAS 608-66-2
+AN,B02,i-Erythritol,"C-Source, carbohydrate",,,,,C00503,CAS 149-32-6
+AN,B03,D-Fructose,"C-Source, carbohydrate",,,,,C00095,CAS 57-48-7
+AN,B04,L-Fucose,"C-Source, carbohydrate",,,,,C01019,CAS 2438-80-4
+AN,B05,D-Galactose,"C-Source, carbohydrate",,,,,C00124,CAS 59-23-4
+AN,B06,D-Galacturonic acid,"C-Source, carboxylic acid",,,,,C00333,CAS 91510-62-2
+AN,B07,Gentiobiose,"C-Source, carbohydrate",,,,,C08240,CAS 554-91-6
+AN,B08,D-Gluconic acid,"C-Source, carboxylic acid",,,,,C00257,CAS 527-07-1
+AN,B09,D-Glucosaminic acid,"C-Source, carboxylic acid",,,,,C03752,CAS 3646-68-2
+AN,B10,a-D-Glucose,"C-Source, carbohydrate",,,,,C00031,CAS 50-99-7
+AN,B11,D-Glucose-1-Phosphate,"C-Source, carbohydrate",,,,,C00103,CAS 56401-20-8
+AN,B12,D-Glucose-6-Phosphate,"C-Source, carbohydrate",,,,,C00092,CAS 3671-99-6
+AN,C01,Glycerol,"C-Source, carbohydrate",,,,,C00116,CAS 56-81-5
+AN,C02,"D,L-a-Glycerol Phosphate","C-Source, carbohydrate",,,,,C00093,CAS 34363-28-5
+AN,C03,myo-Inositol,"C-Source, carbohydrate",,,,,C00137,CAS 87-89-8
+AN,C04,a-D-Lactose,"C-Source, carbohydrate",,,,,C00243,CAS 63-42-3
+AN,C05,Lactulose,"C-Source, carbohydrate",,,,,C07064,CAS 4618-18-2
+AN,C06,Maltose,"C-Source, carbohydrate",,,,,C00208,CAS 6363-53-7
+AN,C07,Maltotriose,"C-Source, carbohydrate",,,,,C01835,CAS 1109-28-0
+AN,C08,D-Mannitol,"C-Source, carbohydrate",,,,,C00392,CAS 69-65-8
+AN,C09,D-Mannose,"C-Source, carbohydrate",,,,,C00159,CAS 3458-28-4
+AN,C10,D-Melezitose,"C-Source, carbohydrate",,,,,C08243,CAS 10030-67-8
+AN,C11,D-Melibiose,"C-Source, carbohydrate",,,,,C05402,CAS 585-99-9
+AN,C12,3-Methylglucose,"C-Source, carbohydrate",,,,,,CAS 13224-94-7
+AN,D01,a-Methyl-D-Galactoside,"C-Source, carbohydrate",,,,,,CAS 3396-99-4
+AN,D02,b-Methyl-D-Galactoside,"C-Source, carbohydrate",,,,,C03619,CAS 1824-94-8
+AN,D03,a-Methyl-D-Glucoside,"C-Source, carbohydrate",,,,,,CAS 97-30-3
+AN,D04,b-Methyl-D-Glucoside,"C-Source, carbohydrate",,,,,,CAS 709-50-2
+AN,D05,Palatinose,"C-Source, carbohydrate",,,,,C01742,CAS 13718-94-0
+AN,D06,D-Raffinose,"C-Source, carbohydrate",,,,,C00492,CAS 17629-30-0
+AN,D07,L-Rhamnose,"C-Source, carbohydrate",,,,,C00507,CAS 3615-41-6
+AN,D08,Salicin,"C-Source, carbohydrate",,,,,C01451,CAS 138-52-3
+AN,D09,D-Sorbitol,"C-Source, carbohydrate",,,,,C00794,CAS 50-70-4
+AN,D10,Stachyose,"C-Source, carbohydrate",,,,,C01613,CAS 54261-98-2
+AN,D11,Sucrose,"C-Source, carbohydrate",,,,,C00089,CAS 57-50-1
+AN,D12,D-Trehalose,"C-Source, carbohydrate",,,,,C01083,CAS 6138-23-4
+AN,E01,D-Turanose,"C-Source, carbohydrate",,,,,G03588,CAS 547-25-1
+AN,E02,Acetic Acid,"C-Source, carboxylic acid",,,,,C00033,CAS 127-09-3
+AN,E03,Formic Acid,"C-Source, carboxylic acid",,,,,C00058,CAS 141-53-7
+AN,E04,Fumaric Acid,"C-Source, carboxylic acid",,,,,C00122,CAS 17013-01-3
+AN,E05,Glyoxylic Acid,"C-Source, carboxylic acid",,,,,C00048,CAS 563-96-2
+AN,E06,a-Hydroxybutyric Acid,"C-Source, carboxylic acid",,,,,C05984,CAS 19054-57-0
+AN,E07,b-Hydroxybutyric Acid,"C-Source, carboxylic acid",,,,,C01089,CAS 150-83-4
+AN,E08,Itaconic Acid,"C-Source, carboxylic acid",,,,,C00490,CAS 97-65-4
+AN,E09,a-Ketobutyric Acid,"C-Source, carboxylic acid",,,,,C00109,CAS 2013-26-5
+AN,E10,a-Ketovaleric Acid,"C-Source, carboxylic acid",,,,,C00567,CAS 1821-02-9
+AN,E11,DL-Lactic Acid,"C-Source, carboxylic acid",,,,,C00186,CAS 50-21-5
+AN,E12,L-Lactic Acid,"C-Source, carboxylic acid",,,,,C01432,CAS 79-33-4
+AN,F01,D-Lactic Acid Methyl Ester,"C-Source, ester",,,,,,CAS 17392-83-5
+AN,F02,D-Malic.Acid,"C-Source, carboxylic acid",,,,,C00497,CAS 636-61-3
+AN,F03,L-Malic Acid,"C-Source, carboxylic acid",,,,,C00149,CAS 138-09-0
+AN,F04,Propionic.Acid,"C-Source, carboxylic acid",,,,,C00163,CAS 137-40-6
+AN,F05,Pyruvic Acid,"C-Source, carboxylic acid",,,,,C00022,CAS 113-24-6
+AN,F06,Pyruvic Acid methyl ester,"C-Source, ester",,,,,,CAS 600-22-6
+AN,F07,D-Saccharic Acid,"C-Source, carboxylic acid",,,,,C00818,CAS 576-42-1
+AN,F08,Succinamic Acid,"C-Source, carboxylic acid",,,,,,CAS 638-32-4
+AN,F09,Succinic Acid,"C-Source, carboxylic acid",,,,,C00042,CAS 6106-21-4
+AN,F10,Succinic Acid Mono-Methyl Ester,"C-Source, ester",,,,,,CAS 3878-55-5
+AN,F11,meso-Tartaric Acid,organic acid,,,,,C00552,CAS 147-73-9
+AN,F12,Urocanic Acid,"C-Source, carboxylic acid",,,,,C00785,CAS 104-98-3
+AN,G01,L-Alaninamide,"C-Source, amide",,,,,,CAS 33208-99-0
+AN,G02,L-Alanine,"C-Source, amino acid",,,,,C00041,CAS 56-41-7
+AN,G03,Ala-Gln,"N-Source, peptide",,,,,,CAS 39537-23-0
+AN,G04,Ala-His,"N-Source, peptide",,,,,,CAS 3253-17-6
+AN,G05,Ala-Thr,"N-Source, peptide",,,,,,CAS 24032-50-6
+AN,G06,L-Asparagine,"C-Source, amino acid",,,,,C00152,CAS 70-47-3
+AN,G07,L-Glutamic Acid,"C-Source, amino acid",,,,,C00025,CAS 6106-04-3
+AN,G08,L-Glutamine,"C-Source, amino acid",,,,,C00064,CAS 56-85-9
+AN,G09,Gly-Asp,"C-Source, amino acid",,,,,C02871,CAS 4685-12-5
+AN,G10,Glycyl-L-Glutamine,"C-Source, amino acid",,,,,,CAS 7412-78-4
+AN,G11,Gly-Met,"N-Source, peptide",,,,,,CAS 554-94-9
+AN,G12,Gly-Pro,"C-Source, amino acid",,,,,,CAS 704-15-4
+AN,H01,L-Methionine,"C-Source, amino acid",,,,,C00073,CAS 63-68-3
+AN,H02,L-Phenylalanine,"C-Source, amino acid",,,,,C00079,CAS 63-91-2
+AN,H03,L-Serine,"C-Source, carbohydrate",,,,,C00065,CAS 56-45-1
+AN,H04,L-Threonine,"C-Source, amino acid",,,,,C00188,CAS 72-19-5
+AN,H05,L-Valine,"C-Source, amino acid",,,,,C00183,CAS 72-18-4
+AN,H06,L-Valine plus L-Aspartic Acid,"C-Source, amino acid",,,,,C00183,CAS 72-18-4
+AN,H07,2`-Deoxyadenosine,"C-Source, carbohydrate",,,,,C00559,CAS 16373-93-6
+AN,H08,Inosine,"C-Source, carbohydrate",,,,,C00294,CAS 58-63-9
+AN,H09,Thymidine,"C-Source, carbohydrate",,,,,C00214,CAS 50-89-5
+AN,H10,Uridine,"C-Source, carbohydrate",,,,,C00299,CAS 58-96-8
+AN,H11,Thymidine 5`-Monophosphate,"P-Source, organic",,,,,C00364,CAS 33430-62-5
+AN,H12,Uridine 5`-Monophosphate,"P-Source, organic",,,,,C00105,CAS 3387-36-8
